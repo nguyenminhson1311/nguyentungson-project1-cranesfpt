@@ -14,7 +14,7 @@ nguyentungson-project1-cranesfpt/
 ├── requirements.txt                   # Thư viện cần cài
 └── README.md                          # File này
 ```
-
+## Link Streamlit Online: https://nguyentungson-cranesfptk01.streamlit.app/
 ## 🚀 Cách chạy
 
 ### Bước 1: Cài thư viện
